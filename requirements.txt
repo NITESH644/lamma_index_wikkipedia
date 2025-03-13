@@ -4,7 +4,7 @@ llama-index
 streamlit
 nltk
 langchain-groq
-lanchain_community
+langchain_community
 requests
 beautifulsoup4
 llama-index-llms-lanchain
