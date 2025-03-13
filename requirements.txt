@@ -3,10 +3,10 @@ groq
 llama-index
 streamlit
 nltk
-langchin-groq
-langchain_community
+langchain-groq
+lanchain_community
 requests
 beautifulsoup4
-llama-index-llms-langchain
+llama-index-llms-lanchain
 sentence-transformers
-llama-index-embeddings-huggingface
+llama_index-embeddings-huggingface
